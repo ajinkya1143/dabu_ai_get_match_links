@@ -1,0 +1,7 @@
+openai==0.27.8
+requests==2.31.0
+pandas==2.1.1
+yt-dlp==2023.10.07
+opencv-python==4.8.0.76
+numpy==1.24.4
+beautifulsoup4==4.13.2
