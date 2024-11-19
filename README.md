@@ -23,7 +23,13 @@ This script retrieves product-related videos from YouTube and Alibaba, compares 
 2. **Install Dependencies Install the required Python packages**
    ```bash
    pip install -r requirements.txt
-
+3. ** Add OPENAI KEY**
+   ```bash
+   add openai key in openai.py > generate content function?
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer *******",   #Add Open AI key Here
+    }
 # Product Video Matching Script
 
 ## **Usage**
